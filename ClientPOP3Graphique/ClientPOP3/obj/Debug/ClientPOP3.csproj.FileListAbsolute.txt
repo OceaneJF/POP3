@@ -1,0 +1,32 @@
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe.config
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.pdb
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.AssemblyReference.cache
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.ClientPOP3.resources
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Properties.Resources.resources
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.GenerateResource.cache
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.CoreCompileInputs.cache
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.exe
+\\iut.bx\Etudiants\Home\ojfrancois\Documents\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.pdb
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe.config
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.pdb
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.AssemblyReference.cache
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.ClientPOP3.resources
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Properties.Resources.resources
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.GenerateResource.cache
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.CoreCompileInputs.cache
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.exe
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.pdb
+C:\Users\ocean\Documents\cour DUT info\reseau\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Banniere.resources
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe.config
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.exe
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\bin\Debug\ClientPOP3.pdb
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Banniere.resources
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.ClientPOP3.resources
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.Properties.Resources.resources
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.GenerateResource.cache
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.exe
+C:\Users\nicol\Documents\all\Oceane\c#\ClientPOP3Graphique\ClientPOP3\obj\Debug\ClientPOP3.pdb
